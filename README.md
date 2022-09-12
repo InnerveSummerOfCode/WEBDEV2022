@@ -1,6 +1,6 @@
 # WEBDEV2022
                                                             Innerve Summer of Code 2022
-						           ******************************
+						            ******************************
 													
 We at Innerve brought to you our version of- The Innerve summer of code. We will 
 provide you with two open-source coding projects during the summer. The program is open for all university students.
