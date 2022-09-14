@@ -30,7 +30,7 @@ What we expect :
 A doc file listing down the changes you made.
 Only one commit of final solution per person is allowed.
 
-Time limit: 7 days [13 September - 19 September 2022(11:59pm)]
+Time limit: 7 days [17 September - 23 September 2022(11:59pm)]
 -----------
 
 Where to send solution:
