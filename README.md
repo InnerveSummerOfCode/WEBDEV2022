@@ -1,5 +1,5 @@
 # WEBDEV2022
-<p align="center"><h1>Innerve Summer of Code 2022<>/h1</p>
+<p align="center"><h1>Innerve Summer of Code 2022</h1></p>
 <p align="center">*****************************************</p>
 													
 We at Innerve brought to you our version of- The Innerve summer of code. We will 
