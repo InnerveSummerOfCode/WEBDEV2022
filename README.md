@@ -1,6 +1,6 @@
 # WEBDEV2022
-                                                            Innerve Summer of Code 2022
-						            ******************************
+<p align="center"><h1>Innerve Summer of Code 2022<>/h1</p>
+<p align="center">*****************************************</p>
 													
 We at Innerve brought to you our version of- The Innerve summer of code. We will 
 provide you with two open-source coding projects during the summer. The program is open for all university students.
@@ -35,7 +35,8 @@ Time limit: 7 days [17 September - 23 September 2022(11:59pm)]
 
 Where to send solution:
 -----------------------
-Commit it on your github repository and hosting it on github.io and share us the link.
+Commit it on your github repository and host it on github.io and share us the link.
+Before commiting your solution, it is mandatory to fill this form 
 
 For any queries contact: 
 ------------------------
