@@ -1,0 +1,44 @@
+:root {
+  --red: #f33535;
+  --black: #29252c;
+  --navy: #33425b;
+  --grey: #d8e9f0;
+  --light-grey: #6a666b;
+  --head-grey: #bad2dd;
+  --normal-grey: #afb4b6;
+  --font-head: "Ubuntu", sans-serif;
+  --font-normal: "Roboto", sans-serif;
+  --font-muli: "Mulish", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-muli);
+  /* color: var(--black); */
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  background: var(--black);
+}
+
+a {
+  color: inherit;
+  font-family: inherit;
+  text-decoration: none;
+}
+
+.font-head {
+  font-family: var(--font-head);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--head-grey);
+}

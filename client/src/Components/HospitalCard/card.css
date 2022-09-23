@@ -1,0 +1,66 @@
+.hospital__card {
+  background: var(--grey);
+  padding: 2em;
+  width: 60%;
+  margin: 2em auto 4em;
+  border-radius: 1em;
+  display: flex;
+  gap: 5%;
+}
+
+.hospital__card .icon {
+  width: 40%;
+}
+
+.hospital__card .icon img {
+  width: 100%;
+  border-radius: 1em;
+}
+
+.hospital__card .details h3 {
+  color: var(--navy);
+  font-size: 2rem;
+  margin: 0;
+  font-weight: 800;
+}
+
+.hospital__card .details p {
+  color: var(--normal-grey);
+  font-size: 1.2rem;
+}
+
+.hospital__card a {
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.hospital__card a:hover {
+  color: var(--red);
+}
+
+.hospital__card .icon_container {
+  display: flex;
+  margin: 0;
+  gap: 1em;
+  flex-wrap: wrap;
+}
+
+.icon_group {
+  border: 0.2em solid var(--navy);
+  display: flex;
+  border-radius: 2em;
+  align-items: center;
+  padding: 0.2em 0.5em;
+  cursor: context-menu;
+  color: var(--navy);
+}
+
+.icon_container .icon_group .icon {
+  color: var(--navy);
+  border: none;
+  margin: 0;
+  font-size: 1rem;
+  width: 100%;
+  padding: 0;
+  margin-right: 0.5em;
+}
