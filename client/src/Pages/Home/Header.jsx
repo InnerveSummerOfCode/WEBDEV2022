@@ -62,41 +62,41 @@ const Header = () => {
             </svg>
           </div>
           <div className="doctor_illust">
-            <img src="./Assets/illusts/4.svg" className="floating" alt="" />
+            <img src="./Assets/illusts/4.png" className="floating" alt="" />
           </div>
           <div className="illust__container">
             <img
-              src="./Assets/illusts/1.svg"
+              src="./Assets/illusts/1.webp"
               className="floating small-illust illust-1"
               alt=""
             />
             <img
-              src="./Assets/illusts/2.svg"
+              src="./Assets/illusts/2.png"
               className="floating small-illust illust-2"
               alt=""
             />
             <img
-              src="./Assets/illusts/3.svg"
+              src="./Assets/illusts/3.png"
               className="floating small-illust illust-3"
               alt=""
             />
             <img
-              src="./Assets/illusts/5.svg"
+              src="./Assets/illusts/5.png"
               className="floating small-illust illust-4"
               alt=""
             />
             <img
-              src="./Assets/illusts/6.svg"
+              src="./Assets/illusts/6.webp"
               className="floating small-illust illust-5"
               alt=""
             />
             <img
-              src="./Assets/illusts/7.svg"
+              src="./Assets/illusts/7.webp"
               className="floating small-illust illust-6"
               alt=""
             />
             <img
-              src="./Assets/illusts/8.svg"
+              src="./Assets/illusts/8.webp"
               className="floating small-illust illust-7"
               alt=""
             />
