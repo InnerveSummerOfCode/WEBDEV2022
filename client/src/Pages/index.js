@@ -1,0 +1,7 @@
+export {default as LoginUser} from "./Login/LoginUser"
+export {default as LoginHospital} from "./Login/LoginHospital"
+export {default as Home} from "./Home/Home"
+export {default as RegisterUser} from "./Register/RegisterUser"
+export {default as RegisterHospital} from "./Register/RegisterHospital"
+export {default as UserDash} from "./Dashboard/UserDash"
+export {default as HospitalDash} from "./Dashboard/HospitalDash"
