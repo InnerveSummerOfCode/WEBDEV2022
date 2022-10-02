@@ -7,7 +7,7 @@ const LoginHospital = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const response = await fetch("http://localhost:1337/api/login-hospital", {
+    const response = await fetch("/api/login-hospital", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

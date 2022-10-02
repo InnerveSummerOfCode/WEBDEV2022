@@ -18,7 +18,7 @@ const RegisterHospital = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const response = await fetch(
-      "http://localhost:1337/api/register-hospital",
+      "/api/register-hospital",
       {
         method: "POST",
         headers: {

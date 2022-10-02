@@ -9,7 +9,7 @@ const UserDash = () => {
   const [allHospitals, setAllHospitals] = useState([]);
 
   const populateData = async () => {
-    const request = await fetch("http://localhost:1337/api/all-hospitals", {
+    const request = await fetch("/api/all-hospitals", {
       headers: {
         "x-access-token": localStorage.getItem("token"),
       },
